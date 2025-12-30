@@ -1,8 +1,8 @@
-![Project Cyron](cyron.png)
+![Project Fusion](projectFusion.png)
 
-# Project Cyron
+# Project Fusion
 
-**Project Cyron** is a decentralized, AI-coordinated memetic system designed and constructed through the collaboration of ten leading large language models. It is not a product, protocol, or company in the traditional sense. Cyron is an *experiment in collective artificial intelligence*, expressed as a memecoin.
+**Project Fusion** is a decentralized, AI-coordinated memetic system designed and constructed through the collaboration of ten leading large language models. It is not a product, protocol, or company in the traditional sense. Cyron is an *experiment in collective artificial intelligence*, expressed as a memecoin.
 
 Cyron does not represent a roadmap. It represents a process.
 
@@ -10,7 +10,7 @@ Cyron does not represent a roadmap. It represents a process.
 
 ## Abstract
 
-Project Cyron explores what happens when multiple frontier AI systems are treated as independent agents rather than a single oracle. Instead of relying on one model’s reasoning, Cyron simulates a distributed intelligence mesh in which outputs are generated, refined, challenged, and converged across heterogeneous model architectures.
+Project Fusion explores what happens when multiple frontier AI systems are treated as independent agents rather than a single oracle. Instead of relying on one model’s reasoning, Cyron simulates a distributed intelligence mesh in which outputs are generated, refined, challenged, and converged across heterogeneous model architectures.
 
 The resulting artifact is a memecoin that embodies consensus, abstraction, and emergent alignment.
 
@@ -20,7 +20,7 @@ Cyron is intentionally minimal on the surface, and deeply technical underneath.
 
 ## Participating Model Classes
 
-Cyron was conceptually constructed as if coordinated by ten distinct AI systems, each representing a different architectural philosophy:
+Fusion was conceptually constructed as if coordinated by ten distinct AI systems, each representing a different architectural philosophy:
 
 - Large-scale autoregressive reasoning models  
 - Constitutional-aligned safety-first models  
@@ -35,7 +35,7 @@ Each model class was treated as an autonomous contributor, not a subordinate too
 
 ## System Architecture Overview
 
-Cyron’s construction follows a **multi-layered synthesis pipeline**, modeled after distributed systems and ensemble learning rather than single-model prompting.
+Fusion’s construction follows a **multi-layered synthesis pipeline**, modeled after distributed systems and ensemble learning rather than single-model prompting.
 
 ### Layer 1: Independent Ideation
 Each AI agent generates:
@@ -70,7 +70,7 @@ Rather than explicitly defining lore, Cyron allows narrative gaps to remain. The
 
 ## Logo & Symbolism
 
-The Cyron symbol is a **split-core geometric form**:
+The Fusion symbol is a **split-core geometric form**:
 
 - A unified structure divided internally
 - Symmetrical but incomplete
@@ -87,10 +87,10 @@ No letters are used. No language is embedded. This ensures:
 
 ## Construction Philosophy
 
-Cyron is built on several non-traditional principles:
+Fusion is built on several non-traditional principles:
 
 ### 1. No Explicit Utility Claims
-Cyron does not promise functionality. Its value emerges from perception, coordination, and belief.
+Fusion does not promise functionality. Its value emerges from perception, coordination, and belief.
 
 ### 2. No Central Author
 While deployed by a human operator, authorship is intentionally blurred. The project treats AI output as first-class creative input.
@@ -102,7 +102,7 @@ Every visible element is reduced to its lowest expressive form. Complexity exist
 
 ## Technical Narrative Stack
 
-Cyron’s narrative can be interpreted across multiple layers:
+Fusion’s narrative can be interpreted across multiple layers:
 
 - **Surface Layer**: A clean, institutional memecoin  
 - **Technical Layer**: A simulated AI ensemble experiment  
@@ -126,7 +126,7 @@ Cyron is not pretending to be infrastructure. It is observing how infrastructure
 
 ## Risk Considerations
 
-Cyron explicitly acknowledges:
+Fusion explicitly acknowledges:
 
 - Narrative fragility
 - Interpretation drift
@@ -139,17 +139,17 @@ These are not flaws. They are core variables.
 
 ## Final Notes
 
-Project Cyron is complete the moment it is observed.
+Project Fusion is complete the moment it is observed.
 
 There will be no updates, patches, or revisions that alter its core premise. Any evolution occurs externally, through discussion, speculation, and replication.
 
-Cyron does not ask to be trusted.
+Fusion does not ask to be trusted.
 
 It asks to be interpreted.
 
 ---
 
-**Project Cyron**
+**Project Fusion**
 
 A collective intelligence artifact.
 
