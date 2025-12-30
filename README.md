@@ -2,9 +2,9 @@
 
 # Project Fusion
 
-**Project Fusion** is a decentralized, AI-coordinated memetic system designed and constructed through the collaboration of ten leading large language models. It is not a product, protocol, or company in the traditional sense. Cyron is an *experiment in collective artificial intelligence*, expressed as a memecoin.
+**Project Fusion** is a decentralized, AI-coordinated memetic system designed and constructed through the collaboration of ten leading large language models. It is not a product, protocol, or company in the traditional sense. Fusion is an *experiment in collective artificial intelligence*, expressed as a memecoin.
 
-Cyron does not represent a roadmap. It represents a process.
+Fusion does not represent a roadmap. It represents a process.
 
 ---
 
